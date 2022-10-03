@@ -1,0 +1,2 @@
+*.htm linguist-language=Python linguist-detectable
+*.ipynb linguist-language=Python linguist-detectable
