@@ -1,4 +1,4 @@
-# Replication of SAS macro to calculate the Standardized Difference in Python
+# Calculation of Standardized Difference for continuous and categorical data in Python
 
 The following code aims at translating the SAS Macro by Dongsheng, Y. and Dalton, E. (2012) into python.
 
