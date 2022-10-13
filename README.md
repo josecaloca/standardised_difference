@@ -1,6 +1,6 @@
-# Calculation of Standardized Difference for continuous and categorical data in Python
+# Standardized Difference Calculation
 
-The following code aims at translating the SAS Macro by Dongsheng, Y. and Dalton, E. (2012) into python.
+The following code aims at implementing the approach for calculating the standarised difference for continuous and categorical variable by Dongsheng, Y. and Dalton, E. (2012) into python.
 
 As example, we use the Iris dataset and calculate the standardized difference on both categorical and numerical variables. For that we simulate a binary treatment and control flag. 
 
